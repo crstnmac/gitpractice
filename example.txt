@@ -1,1 +1,2 @@
 This is master branch.
+Someone pushed a code to master branch
